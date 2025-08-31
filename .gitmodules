@@ -1,0 +1,3 @@
+[submodule "streamforge-api"]
+	path = streamforge-api
+	url = git@github.com:gustavogutkoski/streamforge-api.git
